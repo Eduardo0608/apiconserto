@@ -11,5 +11,4 @@ public class ApiconsertoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiconsertoApplication.class, args);
 	}
-
 }
