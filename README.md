@@ -69,7 +69,7 @@ POST http://localhost:8080/auth/login
         "marca": "Star Wars",
         "modelo": "X Wing",
         "ano": "1977",
-        "cor": "Preta"
+        "cor": "Preto"
     },
     "ativo": true
 }
