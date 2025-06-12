@@ -1,4 +1,6 @@
-## Autenticação
+## Avaliação 3 de PW3S4 - Autenticação
+
+* Eduardo Aguliari da Silva - SC3034976
 
 ### Endpoint de login (necessário se autenticar para fazer requisições):
 
